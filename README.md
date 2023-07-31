@@ -11,7 +11,7 @@
         <h1>Wakadinali</h1>
     </header>
     <main>
-        Wakadinali is a group of kenyan based artists: Scar, Munga and Sewersydaa
+        Wakadinali is a group of kenyan based artists: Scar Mkadinali, Domani Munga and Sewersydaa
     </main>
     <footer>
         <p>&copy; Wakadinali</p>
@@ -31,7 +31,7 @@
 <section>
     <h2>Discography</h2>
     <ul>
-        <li>Ndani Ya Cockpit 3</li>
+        <li>Ndani Ya Cockpit 3 </li>
     </ul>
 </section>
 <section>
@@ -47,7 +47,7 @@
         <p>Biography: SewerSydaa is a Kenyan rapper who is one-third of the hip hop group Wakadinali.</p>
     </div>
     <div class="band-member">
-        <img src="https://afrikalyrics.com/assets/artistes/domani-munga.jpg.jpg" alt="Domani Munga">
+        <img src="https://afrikalyrics.com/assets/artistes/domani-munga.jpg" alt="Domani Munga">
         <p>Name: Domani Munga</p>
         <p>Biography: Domani Munga (born 2 September 19' ) aka Wuzu or Doche is an artist from Kenya, member of the Wakadinali.</p>
     </div>
@@ -59,7 +59,6 @@
        inroductory paragraph of the band and why it is my favorite and links of my favorite songs.
        The project should be set up under various instructions Copyright and licence information.</p>
 </section>
-/* Add your styling rules here */
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -75,7 +74,7 @@ header {
 }
 
 h1 {
-    margin: 0;
+    margin: ;
 }
 
 main {
