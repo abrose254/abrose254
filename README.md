@@ -14,7 +14,7 @@
         Wakadinali is a group of kenyan based artists: Scar, Munga and Sewersydaa
     </main>
     <footer>
-        <p>&copy; My name is Abrose</p>
+        <p>&copy; Wakadinali</p>
     </footer>
 </body>
 </html>
@@ -37,7 +37,7 @@
 <section>
     <h2>Band Members</h2>
     <div class="band-member">
-        <img src="https://ocdn.eu/pulscms-transforms/1/vN3k9kpTURBXy8wNWNiOTZjMWQyNDJjMzExYmQ2NTk5ZGQwNzQ0OGY5ZS5qcGeRlQLNAoDNAoDCw94AAqEwBaExAQ.jpg" alt="Scar Mkadinali">
+        <img src="https://justvideolife.com/wp-content/uploads/2022/04/Scar-Mkadinali-Bachelor-Degree.jpg" alt="Scar Mkadinali">
         <p>Name: Scar Mkadinali</p>
         <p>Biography: Churchil Mandela better known as Scar Mkadinali was born and raised in Nairobi Eastlands Areas of Umoja 1, member of Wakadinali.</p>
     </div>
