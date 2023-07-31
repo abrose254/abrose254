@@ -11,10 +11,11 @@
         <h1>Wakadinali</h1>
     </header>
     <main>
-        Wakadinali is a group of kenyan based artists: Scar Mkadinali, Domani Munga and Sewersydaa
+        Wakadinali is a group of kenyan based artists by the name Scar Mkadinali, Domani Munga and Sewersydaa.
+        It is my favorite band because their music has content about the current situation of the nation and it also has good motivation to the youth which tells how to cope with those emerging issues.
     </main>
     <footer>
-        <p>&copy; Wakadinali</p>
+        <p>&copy; Wakadinali 2023 </p>
     </footer>
 </body>
 </html>
