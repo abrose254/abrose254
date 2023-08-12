@@ -1,105 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Favorite Band</Wakadinali>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <h1>Wakadinali</h1>
-    </header>
-    <main>
-        Wakadinali is a group of kenyan based artists by the name Scar Mkadinali, Domani Munga and Sewersydaa.
-        It is my favorite band because their music has content about the current situation of the nation and it also has good motivation to the youth which tells how to cope with those emerging issues.
-    </main>
-    <footer>
-        <p>&copy; Wakadinali 2023 </p>
-    </footer>
-</body>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="index.css">
+        <title>Photographic site</title>
+    </head>
+    <body>
+        <h1>@abrose_shots</h1>
+        <div class="photography logo">
+            <p>This is the photography-logo.</p>
+            <img src="https://static.vecteezy.com/system/resources/thumbnails/008/991/031/small/photography-logo-vector.jpg" alt="Photo 0">
+        </div>
+        The project name is abrose_shots and the author is Ambrose Mutiso.
+        The site is designed in order to enable a high reach to clients and also for them to see our work.
+        One can be able to book a session with us through the website.
+        <p>&copy;abrose_shots. All rights reserved.</p>
+        <section id="favorite-photos">
+            <h2>Favorite Photos</h2>
+            <div class="photo">
+                <img src="https://images.unsplash.com/photo-1486916856992-e4db22c8df33?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80.jpg" alt="Photo 1">
+                <p>Capturing the beauty of nature.</p>
+            </div>
+            <div class="photo">
+                <img src="https://images.unsplash.com/photo-1542103131-b4a52ad279d0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=464&q=80.jpg" alt="Photo 2">
+                <p>Exploring the urban jungle.</p>
+            </div>
+        </section>
+    </body>
 </html>
-<main>
-    <section>
-        <h2>Favorite Songs</h2>
-        <ul>
-            <li><a href="https://www.youtube.com/watch?v=0rLqU8gNams">Sikutambui</a></li>
-            <li><a href="https://www.youtube.com/watch?v=lKsc8wr3oJE">McMca</a></li>
-            <li><a href="https://www.youtube.com/watch?v=zzuSzxEZ01w">Case Closed</a></li>
-        </ul>
-    </section>
-</main>
-<section>
-    <h2>Discography</h2>
-    <ul>
-        <li>Ndani Ya Cockpit 3 </li>
-    </ul>
-</section>
-<section>
-    <h2>Band Members</h2>
-    <div class="band-member">
-        <img src="https://justvideolife.com/wp-content/uploads/2022/04/Scar-Mkadinali-Bachelor-Degree.jpg" alt="Scar Mkadinali">
-        <p>Name: Scar Mkadinali</p>
-        <p>Biography: Churchil Mandela better known as Scar Mkadinali was born and raised in Nairobi Eastlands Areas of Umoja 1, member of Wakadinali.</p>
-    </div>
-    <div class="band-member">
-        <img src="https://biggestkaka.co.ke/wp-content/uploads/2022/01/Sewersydaa-aWsXWY6C.jpg" alt="Sewersydaa">
-        <p>Name: Sewersydaa</p>
-        <p>Biography: SewerSydaa is a Kenyan rapper who is one-third of the hip hop group Wakadinali.</p>
-    </div>
-    <div class="band-member">
-        <img src="https://afrikalyrics.com/assets/artistes/domani-munga.jpg" alt="Domani Munga">
-        <p>Name: Domani Munga</p>
-        <p>Biography: Domani Munga (born 2 September 19' ) aka Wuzu or Doche is an artist from Kenya, member of the Wakadinali.</p>
-    </div>
-</section>
-<section>
-    <h2>Introduction</h2>
-    <p>The project name is Favorite band and the author of the project is abrose254.
-       The project comprises of favorite songs and albums, image to each member of the band alongside their biography,
-       inroductory paragraph of the band and why it is my favorite and links of my favorite songs.
-       The project should be set up under various instructions Copyright and licence information.</p>
-</section>
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
-    line-height: 1.6;
-}
-
-header {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 10px;
-}
-
-h1 {
-    margin: ;
-}
-
-main {
-    padding: 20px;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-a {
-    color: #007bff;
-    text-decoration: none;
-}
-
-.band-member {
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-.band-member img {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-}
